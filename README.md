@@ -37,6 +37,20 @@ El estudiante podría comparar recorridos y explicar sus decisiones de navegaci�
 
 **Alcance inicial propuesto:** un demostrador de simulación con un escenario, un robot y una actividad de inspección. Su desarrollo y eventual uso con equipos físicos quedarían sujetos a la revisión del Dr. Holguín y a la disponibilidad de recursos.
 
+## Participación propuesta de la carrera de Ventas
+
+**Línea propuesta: vinculación comercial de servicios tecnológicos y capacitación para el sector minero.**
+
+Se propone integrar a docentes y estudiantes de Ventas para explorar qué necesidades de las empresas podrían atender las futuras aplicaciones educativas de robótica.
+
+- Identificar posibles usuarios, necesidades de capacitación e interés en demostradores.
+- Traducir las características de los prototipos en beneficios y propuestas de valor, con validación del equipo técnico.
+- Preparar una presentación preliminar de servicios y una propuesta de vinculación con empresas mineras y proveedoras.
+
+La aportación se plantea como un ejercicio académico de análisis comercial, sujeto a revisión con el Dr. Holguín.
+
+**Referencia del perfil:** [TSU en Ventas · UTLD](https://www.utlagunadurango.edu.mx/general-clean-3).
+
 ## Relación con otras iniciativas
 
 Esta línea puede compartir experiencias de simulación y enseñanza con el [Cuerpo Académico de Robótica Industrial](https://github.com/vicktor27/-CA-Robotica-Industrial.) y explorar recursos de visualización junto con [Entornos Virtuales VR para Capacitación](https://github.com/vicktor27/Entornos-Virtuales-VR-Capacitacion).
