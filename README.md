@@ -19,6 +19,13 @@ La iniciativa busca vincular conocimientos de robótica, programación y simulac
 
 Desarrollar recursos de simulación y prototipos educativos que permitan explorar aplicaciones de la robótica a la Minería y apoyar la comprensión de problemas técnicos mediante experiencias de aprendizaje.
 
+## Líneas de investigación y ejes
+
+- **Líneas de investigación:** **PENDIENTES POR DEFINIR**
+- **Ejes:** **PENDIENTES POR DEFINIR**
+
+Las propuestas de esta presentación son ideas para discusión; no constituyen líneas de investigación ni ejes acordados.
+
 ## Proyectos propuestos
 
 | Proyecto | Idea central | Resultado inicial propuesto |
@@ -39,7 +46,7 @@ El estudiante podría comparar recorridos y explicar sus decisiones de navegaci�
 
 ## Participación propuesta de la carrera de Ventas
 
-**Línea propuesta: vinculación comercial de servicios tecnológicos y capacitación para el sector minero.**
+**Posible aportación de Ventas: vinculación comercial de servicios tecnológicos y capacitación para el sector minero.**
 
 Se propone integrar a docentes y estudiantes de Ventas para explorar qué necesidades de las empresas podrían atender las futuras aplicaciones educativas de robótica.
 
@@ -53,7 +60,7 @@ La aportación se plantea como un ejercicio académico de análisis comercial, s
 
 ## Relación con otras iniciativas
 
-Esta línea puede compartir experiencias de simulación y enseñanza con el [Cuerpo Académico de Robótica Industrial](https://github.com/vicktor27/-CA-Robotica-Industrial.) y explorar recursos de visualización junto con [Entornos Virtuales VR para Capacitación](https://github.com/vicktor27/Entornos-Virtuales-VR-Capacitacion).
+Esta iniciativa puede compartir experiencias de simulación y enseñanza con el [Cuerpo Académico de Robótica Industrial](https://github.com/vicktor27/-CA-Robotica-Industrial.) y explorar recursos de visualización junto con [Entornos Virtuales VR para Capacitación](https://github.com/vicktor27/Entornos-Virtuales-VR-Capacitacion).
 
 ## Estado actual
 
